@@ -4,8 +4,8 @@ import os
 
 #Input user parameters:
 OBJECT_NAME = contacts
-ORIGINAL_FILE_PATH = '/Users/smothwood/Downloads/ContactNotesInsert1.csv'
-DOWNLOAD_FOLDER = '/Users/smothwood/salesforce_files'
+ORIGINAL_FILE_PATH = '[your file path here]'
+DOWNLOAD_FOLDER = '[file path for where you want to save notes text files on your computer]'
 RELATED_OBJECT_ID = "Related Contact Id"
 
 ## Phase 1: Upload Notes into Salesforce
